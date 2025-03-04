@@ -24,7 +24,3 @@ Para usar los archivos de documentación:
 1. Asegúrate de tener un editor de texto o visor de Markdown (VS Code, Typora, etc.).
 2. Navega a la carpeta `docs` donde se encuentra la documentación.
 3. Abre los archivos `.md` correspondientes con tu editor preferido.
-
-
----
- ¡Listo para explorar la documentación y mejorar tu flujo de trabajo con Git Bash!
