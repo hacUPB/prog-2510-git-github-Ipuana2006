@@ -85,7 +85,3 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 ```
 
 Esto descargará el repositorio en tu máquina.
-
----
-
-¡Listo! Ahora has creado y sincronizado un repositorio remoto en GitHub con tu repositorio local. 🚀
