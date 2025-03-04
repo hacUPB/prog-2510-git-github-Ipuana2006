@@ -50,7 +50,3 @@ Además de los comandos de navegación, Git Bash permite el uso de **Git** para 
 - **`git push origin main`** → Envía los cambios al repositorio remoto.
 
 Estos comandos permiten trabajar con Git directamente desde Git Bash, facilitando la gestión de versiones en proyectos de desarrollo.
-
----
-
-Con estos conocimientos, puedes usar Git Bash para navegar, crear y gestionar archivos, además de trabajar con repositorios Git de manera eficiente. 🚀
