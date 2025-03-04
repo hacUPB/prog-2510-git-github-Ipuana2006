@@ -54,7 +54,3 @@ git push -u origin main
 ```
 
 Si tu rama principal se llama `master`, cambia `main` por `master`.
-
----
-
-¡Listo! Ahora tienes un repositorio Git local funcionando. 🚀
